@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Mehta</h1>
 <h3 align="center">Curious</h3>
 
-- 🔭 I’m currently working on **αSHUP- A MERN based cashier checkout system**
+- 🔭 I’m currently working on **αSHUP- A MERN based cashier checkout system & Web Pentesting**
 
 - 🌱 I’m currently learning **MERN, Cybersecurity, Agentic AI & AZ Cloud**
 
