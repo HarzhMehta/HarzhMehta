@@ -1,12 +1,21 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/28e028e2-76f6-4a87-9750-3d968f67fc05" width="360" alt="image" />
+  ![kdrgif](https://github.com/user-attachments/assets/26845375-eba2-4625-8caf-8f79dc58e32d)
+
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/002a1d99-8d94-4df2-8bab-c708b9834f01" width="320" alt="giphy" />
-</p>
+  ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗    ████████╗ ██████╗ 
+  ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝    ╚══██╔══╝██╔═══██╗
+  ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗         ██║   ██║   ██║
+  ██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝         ██║   ██║   ██║
+  ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗       ██║   ╚██████╔╝
+   ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝       ╚═╝    ╚═════╝ 
+███╗   ███╗██╗   ██╗     ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗
+████╗ ████║╚██╗ ██╔╝    ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
+██╔████╔██║ ╚████╔╝     ██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝
+██║╚██╔╝██║  ╚██╔╝      ██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗
+██║ ╚═╝ ██║   ██║       ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
+╚═╝     ╚═╝   ╚═╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝
 
 <br><br>
 
@@ -36,9 +45,9 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/79e38b91-f9dc-428b-a8fc-77527838540d" width="300" alt="giphy (1)"/>
-</p>
+
+  <img src="https://github.com/user-attachments/assets/79e38b91-f9dc-428b-a8fc-77527838540d" alt="giphy (1)"/>
+
 
 <br>
 
@@ -75,9 +84,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=HarzhMehta&icon=0&color=0" alt="visitcount" width="220" /></a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
