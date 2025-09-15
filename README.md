@@ -1,5 +1,10 @@
-# 💫 About Me:
- I’m currently working with Fullstack DEV, DSA and Cybersecutiry (bit of AI, [maybe])<br><br>I'm looking to colab on any interesting and impactful projects (crazy & humorous ones too!) { ready to intern } <br><br> My portfolio website https://portfoliowebsite-rho-seven.vercel.app/  {too lazy to update it so checkout linkedin}<br><br> I often write articles on https://www.linkedin.com/in/harsh-mehta-90933921b/<br><br> How to reach me: mehtaharsh3012@gmail.com<br><br> Fun fact: Do not book a judge by its cover
+
+- I’m currently working with Fullstack DEV, DSA and Cybersecutiry (bit of AI, [maybe])<br><br>
+- I'm looking to colab on any interesting and impactful projects (crazy & humorous ones too!) { ready to intern } <br><br> 
+- My portfolio website https://portfoliowebsite-rho-seven.vercel.app/  {too lazy to update it so checkout linkedin}<br><br> 
+- I often write articles on https://www.linkedin.com/in/harsh-mehta-90933921b/<br><br> 
+- How to reach me: mehtaharsh3012@gmail.com<br><br> 
+- Fun fact: Do not book a judge by its cover
 
 
 ## 🌐 Socials:
