@@ -31,9 +31,7 @@
 - **📧 Reach me:** mehtaharsh3012@gmail.com<br><br>
 - **🤯 Fun fact:** Don’t book a judge by its cover.
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtpenE3aGpoanl5aW5pMDFubmpiNTFqOHd4YWpwY2duYXVtdmp2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="350" alt="giphy-long" />
-</p>
+[![An image of @harzhmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harzhmehta)](https://holopin.io/@harzhmehta)
 
 ## 🌐 Socials
 
