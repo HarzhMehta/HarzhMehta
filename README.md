@@ -1,5 +1,5 @@
-<div align="center"> 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HarzhMehta)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarzhMehta" alt="Profile view counter on GitHub">
 </div>
 
 <div align="center">
