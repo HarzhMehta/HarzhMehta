@@ -19,7 +19,7 @@
   ╚═╝     ╚═╝   ╚═╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
   </pre>
 
-  <h3>👋 Hi, I'm Harsh</h3>
+  <h3>👋 Hi, I'm Harsh (not the english word "harsh" ^_^ )</h3>
 </div>
 
 <div align="center">
@@ -28,12 +28,12 @@
 
 <br>
 
-- **🌱 Currently working on:** Fullstack Development, DSA, Cybersecurity (and a bit of AI... maybe 😁)<br><br>
-- **🤝 Open to collaborate on:** Interesting & impactful projects — crazy & humorous ones too! (Ready to intern!)<br><br>
-- **🌐 Portfolio:** [portfoliowebsite-rho-seven.vercel.app](https://portfoliowebsite-rho-seven.vercel.app) _(too lazy to update, check LinkedIn 😅)_<br><br>
-- **✍️ Articles:** [LinkedIn Posts](https://www.linkedin.com/in/harsh-mehta-90933921b/)<br><br>
+- **- Currently working on:** Fullstack Development, DSA, a bit of system design and occasionally cybersecurity<br><br>
+- **- Open to collaborate on:** Interesting & impactful projects — crazy & humorous ones too! (Ready to intern!)<br><br>
+- **🌐 Portfolio:** [portfoliowebsite-rho-seven.vercel.app](https://portfoliowebsite-rho-seven.vercel.app) _(too lazy to update { or maybe too busy, if that sounds any better }, checkout my LinkedIn 😅)_<br><br>
+- **- Articles:** [LinkedIn Posts](https://www.linkedin.com/in/harsh-mehta-90933921b/)<br><br>
 - **📧 Reach me:** mehtaharsh3012@gmail.com<br><br>
-- **🤯 Fun fact:** Don’t book a judge by its cover.
+- **--> Fun fact:** Don’t book a judge by its cover.
 
 [![An image of @harzhmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harzhmehta)](https://holopin.io/@harzhmehta)
 
@@ -68,12 +68,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarzhMehta&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" width="550" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarzhMehta&theme=neon&no-frame=false&no-bg=true&margin-w=4" alt="trophies" width="500" />
 </p>
 
 ### 🔝 Top Contributed Repo
