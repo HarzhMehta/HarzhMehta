@@ -1,4 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+<div align="center"> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HarzhMehta)</div>
 
 <div align="center">
   <pre>
