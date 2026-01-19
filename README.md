@@ -22,6 +22,8 @@
   <h3>👋 Hi, I'm Harsh (not the english word "harsh" ^_^ )</h3>
 </div>
 
+[![An image of @harzhmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harzhmehta)](https://holopin.io/@harzhmehta)
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
@@ -35,7 +37,7 @@
 - **📧 Reach me:** mehtaharsh3012@gmail.com<br><br>
 - **--> Fun fact:** Don’t book a judge by its cover.
 
-[![An image of @harzhmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harzhmehta)](https://holopin.io/@harzhmehta)
+
 
 ## 🌐 Socials
 
