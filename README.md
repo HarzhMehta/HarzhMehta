@@ -1,4 +1,5 @@
-<img src="https://komarev.com/ghpvc/?username=HarzhMehta" alt="Profile view counter on GitHub">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarzhMehta" alt="Profile view counter on GitHub">
 </div>
 
 <div align="center">
@@ -22,15 +23,15 @@
 </div>
 
 
-<img width="300" height="38" alt="logo" src="./GSoC%20Banner.png" />
-### 🚀 Google Summer of Code 2026 Contributor @ Liquid Galaxy
+<img width="300" height="38" alt="GSoC Logo" src="[./GSoC%20Banner.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJRZKLsLR89guwbmX3HUEW0NjHHAunsqxSxJRmBiEKVfyFjod9leXiRoqha2qX_npVgARW9ruTFmGDuGHOLBUgZqGkHPXLAEUDrlajZGgBwTRPUC6Tnl32DZ20gN3FxY3or415RwR89Sztx1n5Pl6WC3vYy7slN6xmexpm-BTPTxsK5Btsuq0pVcYk1k/s1600/GSoC%20Banner.png)" />
+### Google Summer of Code 2026 Contributor @ Liquid Galaxy
 [![An image of @harzhmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harzhmehta)](https://holopin.io/@harzhmehta)
 
 <br>
 
 - **- Currently working on:** Fullstack Development, DSA, a bit of system design and occasionally cybersecurity<br><br>
 - **- Open to collaborate on:** Interesting & impactful projects — crazy & humorous ones too! (Ready to intern!)<br><br>
-- **🌐 Portfolio:** [portfoliowebsite-rho-seven.vercel.app](https://portfoliowebsite-rho-seven.vercel.app) _(too lazy to update { or maybe too busy, if that sounds any better }, checkout my LinkedIn 😅)_<br><br>
+- **🌐 Portfolio:** [portfoliowebsite-rho-seven.vercel.app](https://portfoliowebsite-rho-seven.vercel.app) _(too lazy to update { or maybe too busy, if that sounds any better }, checkout my LinkedIn 😅)<br><br>
 - **- Articles:** [LinkedIn Posts](https://www.linkedin.com/in/harsh-mehta-90933921b/)<br><br>
 - **📧 Reach me:** mehtaharsh3012@gmail.com<br><br>
 - **--> Fun fact:** Don’t book a judge by its cover.
