@@ -1,5 +1,4 @@
-<img width="300" height="38" alt="logo" src="https://github.com/user-attachments/assets/595f5f6e-cd37-4d59-93ba-f3eeefae22e9" /><div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarzhMehta" alt="Profile view counter on GitHub">
+<img src="https://komarev.com/ghpvc/?username=HarzhMehta" alt="Profile view counter on GitHub">
 </div>
 
 <div align="center">
@@ -22,8 +21,8 @@
   <h3>👋 Hi, I'm Harsh (not the english word "harsh" ^_^ )</h3>
 </div>
 
-![GSoC Banner](./GSoC%20Banner.png)
 
+<img width="300" height="38" alt="logo" src="./GSoC%20Banner.png" />
 ### 🚀 Google Summer of Code 2026 Contributor @ Liquid Galaxy
 [![An image of @harzhmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harzhmehta)](https://holopin.io/@harzhmehta)
 
@@ -46,7 +45,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-mehta-90933921b/)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HarzhMehta)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehtaharsh3012@gmail.com)
-🌍 Portfolio: http://portfoliowebsite-rho-seven.vercel.app/
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](http://portfoliowebsite-rho-seven.vercel.app/)
 ---
 
 # 💻 Tech Stack
