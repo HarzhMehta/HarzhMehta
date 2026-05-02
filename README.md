@@ -22,6 +22,8 @@
   <h3>👋 Hi, I'm Harsh (not the english word "harsh" ^_^ )</h3>
 </div>
 
+![Uploading 1200px-GSoC_logo.svg_.png…]()
+<h3>Google Summer of Code 2026 contributor @Liquid Galaxy</h3>
 [![An image of @harzhmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harzhmehta)](https://holopin.io/@harzhmehta)
 
 <br>
