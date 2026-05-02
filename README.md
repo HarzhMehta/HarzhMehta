@@ -19,7 +19,7 @@
   ╚═╝     ╚═╝   ╚═╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
   </pre>
 
-  <h3>👋 Hi, I'm Harsh (not the english word "harsh" ^_^ )</h3>
+  <h2>👋 Hi, I'm Harsh (not the english word "harsh" ^_^ )</h2>
 </div>
 
 
@@ -28,8 +28,10 @@
        width="420" 
        alt="GSoC Banner">
 </div>
-
-**Google Summer of Code 2026 Contributor @ Liquid Galaxy**
+<br>
+<div align="center">
+  <h3><b>Google Summer of Code 2026 Contributor @ Liquid Galaxy</b></h3>
+</div>
 <br><br>
 [![An image of @harzhmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harzhmehta)](https://holopin.io/@harzhmehta)
 
