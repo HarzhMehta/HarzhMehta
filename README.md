@@ -23,8 +23,14 @@
 </div>
 
 
-<img width="300" height="38" alt="GSoC Logo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJRZKLsLR89guwbmX3HUEW0NjHHAunsqxSxJRmBiEKVfyFjod9leXiRoqha2qX_npVgARW9ruTFmGDuGHOLBUgZqGkHPXLAEUDrlajZGgBwTRPUC6Tnl32DZ20gN3FxY3or415RwR89Sztx1n5Pl6WC3vYy7slN6xmexpm-BTPTxsK5Btsuq0pVcYk1k/s1600/GSoC%20Banner.png" />
+<div align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJRZKLsLR89guwbmX3HUEW0NjHHAunsqxSxJRmBiEKVfyFjod9leXiRoqha2qX_npVgARW9ruTFmGDuGHOLBUgZqGkHPXLAEUDrlajZGgBwTRPUC6Tnl32DZ20gN3FxY3or415RwR89Sztx1n5Pl6WC3vYy7slN6xmexpm-BTPTxsK5Btsuq0pVcYk1k/s1600/GSoC%20Banner.png" 
+       width="420" 
+       alt="GSoC Banner">
+</div>
+
 **Google Summer of Code 2026 Contributor @ Liquid Galaxy**
+<br><br>
 [![An image of @harzhmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harzhmehta)](https://holopin.io/@harzhmehta)
 
 <br>
