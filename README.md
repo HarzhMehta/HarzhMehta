@@ -36,6 +36,10 @@
 
 [![An image of @harzhmehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harzhmehta)](https://holopin.io/@harzhmehta)
 
+<br>
+
+**Hacktoberfest 2025 badges**
+
 </div>
 
 ---
@@ -43,9 +47,12 @@
 <img src="./hd-about.svg" width="620" alt="about"/>
 
 > Hi, I'm Harsh (not the english word "harsh" ^_^).<br>
-> Curious engineering student who makes things — and can explain how QR codes work.
+> **SDE Intern at Quantifai.** Experience in full-stack development, cybersecurity,<br>
+> and AI — and a lot of AI agents, because why not.
 
-- **Open to collaborate on:** Interesting & impactful projects … crazy & humorous ones too (ready to intern!)
+I love to build and break at the project level. I love systems design.
+
+- **Open to collaborate on:** Interesting & impactful projects … crazy & humorous ones too
 - **Reach me:** [mehtaharsh3012@gmail.com](mailto:mehtaharsh3012@gmail.com)
 - **Fun fact:** Don't book a judge by its cover.
 
