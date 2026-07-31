@@ -46,13 +46,13 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Hi, I'm Harsh (not the english word "harsh" ^_^).<br>
-> **SDE Intern at Quantifai.** Experience in full-stack development, cybersecurity,<br>
-> and AI — and a lot of AI agents, because why not.
+Hi, I'm Harsh (not the english word "harsh" ^_^).<br>
+**SDE Intern at Quantifai.** Experience in full-stack development, cybersecurity,<br>
+and AI - and a lot of AI agents, because why not.
 
 I love to build and break at the project level. I love systems design.
 
-- **Open to collaborate on:** Interesting & impactful projects … crazy & humorous ones too
+- **Open to collaborate on:** Interesting & impactful projects ... crazy & humorous ones too
 - **Reach me:** [mehtaharsh3012@gmail.com](mailto:mehtaharsh3012@gmail.com)
 - **Fun fact:** Don't book a judge by its cover.
 
