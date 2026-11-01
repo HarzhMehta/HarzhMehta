@@ -61,7 +61,7 @@ I love to build and break at the project level. I love systems design.
 </div>
 
 ---
-
+![My Git Koi](https://raw.githubusercontent.com/HarzhMehta/HarzhMehta/output/git-koi.gif)
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
