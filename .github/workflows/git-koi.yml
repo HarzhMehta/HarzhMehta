@@ -1,0 +1,41 @@
+name: Generate Git Koi
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every night at midnight UTC
+  workflow_dispatch:     # Allows you to trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Git Koi GIF
+        uses: yalongwastaken/git-koi@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: git-koi.gif
+
+      - name: Commit and push output
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Check if the output branch already exists, otherwise create an orphan branch
+          if git ls-remote --exit-code --heads origin output; then
+            git checkout output
+          else
+            git checkout --orphan output
+            git rm -rf .
+          fi
+          
+          # Move the generated GIF into place
+          mv git-koi.gif ./git-koi.gif
+          git add git-koi.gif
+          
+          git commit -m "chore: update git-koi gif [skip ci]" || echo "No changes to commit"
+          git push origin output
